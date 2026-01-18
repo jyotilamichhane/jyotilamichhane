@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Jyoti Lamichhane
+
+A dedicated .NET Developer with 6+ years of experience in designing, developing, and maintaining backend systems and APIs. Holds a Master’s degree from the University for the Creative Arts (UCA), Surrey, United Kingdom, combining strong software engineering expertise with business and product oriented skills.
 
 <!--
 **jyotilamichhane/jyotilamichhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
